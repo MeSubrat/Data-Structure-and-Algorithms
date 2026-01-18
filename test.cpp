@@ -1,17 +1,15 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main()
 {
-    stack<int> st ;
-    vector<int> arr = {1,2,3,4,5};
-
-    for(auto it: arr){
-        st.push(it);
+    unordered_set<int> s;
+    s.insert(10);
+    s.insert(20);
+    s.erase(10);
+    for (auto it : s)
+    {
+        cout << it;
     }
-
-    while(!st.empty()){
-        cout<<st.top()<<" ";
-        st.pop(); 
-    }
+    cout<<s.size();
 }
