@@ -16,9 +16,13 @@ public:
         }
 
         int longest = 1;
-        //Iterate through the 
+        //Iterate through the set
         for (auto it : st)
         {
+            /*
+            If the element's previous element is not present then we'll check the length,
+            or if present then we'll move
+            */
             if (st.find(it - 1) == st.end())
             {
                 int cnt = 0;
@@ -28,6 +32,7 @@ public:
                     x = x + 1;
                     cnt += 1;
                 }
+                //Finding longest sequence
                 longest = max(longest, cnt);
             }
         }
