@@ -27,9 +27,28 @@ string reverseWords(string s)
     }
     return result;
 }
+// void reverse(bitset<32> &b){
+//     int n
+// }
 
 int main()
 {
     string s = "hello world";
-    cout<<reverseWords(s);
+    // cout<<reverseWords(s);
+    int n = 8;
+    bitset<32> b(n);
+    int highestBit = log2(n);
+    // reverse()
+    int i=0;int j=highestBit;
+    while(i<j){
+        int temp = b[i];
+        b[i] = b[j];
+        b[j] = temp;
+        i++;
+        j--;
+    }
+    for (int i = 0; i <= highestBit; i++)
+    {
+        cout << b[i] << " ";
+    }
 }
