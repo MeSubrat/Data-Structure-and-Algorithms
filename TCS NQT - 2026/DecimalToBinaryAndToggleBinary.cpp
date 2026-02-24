@@ -21,8 +21,11 @@ int main()
     bitset<32> b(n);
     int highestBit = log2(n);
 
+    //Toggle the value
     for (int i = highestBit; i >= 0; i--)
     {
+        if(b[i] == 0) b[i] = 1;
+        else b[i] = 0;
         cout << b[i];
     }
 }
