@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution
 {
 public:
@@ -15,5 +17,14 @@ public:
             }
             j++;
         }
+    }
+};
+int main()
+{
+    vector<int> arr = {0, 1, 0, 2, 3};
+    Solution obj;
+    obj.moveZeroes(arr);
+    for(int num : arr){
+        cout<<num <<" ";
     }
 }
