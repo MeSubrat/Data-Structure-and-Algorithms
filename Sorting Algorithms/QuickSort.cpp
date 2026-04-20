@@ -22,7 +22,7 @@ int getPartitionIdx(vector<int> &arr, int low, int high)
 
 void quickSort(vector<int> &arr, int low, int high)
 {
-    if(low>=high) return;
+    if(low>=high) return; //Base case is important!
     int partitionIdx = getPartitionIdx(arr, low, high);
     quickSort(arr, low, partitionIdx-1);
     quickSort(arr, partitionIdx + 1, high);
