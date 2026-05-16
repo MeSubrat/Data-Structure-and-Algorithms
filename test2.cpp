@@ -18,27 +18,26 @@ string compressString(string &s)
     result += s[s.length() - 1] + to_string(cnt);
     return result;
 }
-//Reverse words in a string
-string reverseWords(string &s){
+// Reverse words in a string
+string reverseWords(string &s)
+{
     vector<string> parts;
-    reverse(s.begin(), s.end());    //i am subrat ->  tarbus ma i
+    reverse(s.begin(), s.end()); // i am subrat ->  tarbus ma i
     int start = 0;
-    int i=0;
-    while(i<s.length()){    
-        if(s[i] == ' '){
-            reverse(s.begin()+start, s.begin()+i);
-            start = i+1;
+    int i = 0;
+    while (i < s.length())
+    {
+        if (s[i] == ' ')
+        {
+            reverse(s.begin() + start, s.begin() + i);
+            start = i + 1;
         }
         i++;
     }
-    //Last word
-    reverse(s.begin()+start, s.begin()+s.length());
+    // Last word
+    reverse(s.begin() + start, s.begin() + s.length());
     return s;
 }
-
-
-
-
 
 int main()
 {
@@ -47,6 +46,19 @@ int main()
     // AABBAAC -> A2B2A2C1
 
     // cout << compressString(s);
-    string s = "the sky is blue";
-    cout<<reverseWords(s);
+    // string s = "the sky is blue";
+    // cout<<reverseWords(s);
+
+    // Fibonacci series using Tabulation(Bottom Up - DP)
+    int n;
+    cin >> n;
+    int prev = 1;
+    int prev2 = 0;
+    for (int i = 2; i <= n; i++)
+    {
+        int curri = prev + prev2;
+        prev2 = prev;
+        prev = curri;
+    }
+    cout << prev;
 }
