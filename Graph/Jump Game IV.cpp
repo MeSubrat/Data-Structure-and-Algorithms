@@ -1,72 +1,37 @@
 class Solution {
-    public static int minJumps(int[] arr) {
-        int n = arr.length;
-        if (n <= 1) {
-            return 0;
+public:
+    int minJumps(vector<int>& arr) {
+        int n=arr.size();
+        if(n==1)return 0;
+        unordered_map<int,vector<int>>mp;
+        for (int i=0;i<n;i++){
+            mp[arr[i]].push_back(i);
         }
-
-        Map<Integer, List<Integer>> graph = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            graph.computeIfAbsent(arr[i], v -> new LinkedList<>()).add(i);
-        }
-
-        HashSet<Integer> curs = new HashSet<>(); // store layers from start
-        curs.add(0);
-        Set<Integer> visited = new HashSet<>();
-        visited.add(0);
-        visited.add(n - 1);
-        int step = 0;
-
-        HashSet<Integer> other = new HashSet<>(); // store layers from end
-        other.add(n - 1);
-
-        // when current layer exists
-        while (!curs.isEmpty()) {
-            // search from the side with fewer nodes
-            if (curs.size() > other.size()) {
-                HashSet<Integer> tmp = curs;
-                curs = other;
-                other = tmp;
+        queue<pair<int,int>>q;
+        q.push({0,0});
+        vector<int>vis(n,0);
+        vis[0]=1;
+        while(!q.empty()){
+            int node=q.front().first;
+            int dist=q.front().second;
+            q.pop();
+            if(node==n-1)return dist;
+            if(node-1>=0 && !vis[node-1]){
+                vis[node-1]=1;
+                q.push({node-1,dist+1});
             }
-
-            HashSet<Integer> nex = new HashSet<>();
-
-            // iterate the layer
-            for (int node : curs) {
-
-                // check same value
-                for (int child : graph.get(arr[node])) {
-                    if (other.contains(child)) {
-                        return step + 1;
-                    }
-                    if (!visited.contains(child)) {
-                        visited.add(child);
-                        nex.add(child);
-                    }
-                }
-
-                // clear the list to prevent redundant search
-                graph.get(arr[node]).clear();
-
-                // check neighbors
-                if (other.contains(node + 1) || other.contains(node - 1)) {
-                    return step + 1;
-                }
-
-                if (node + 1 < n && !visited.contains(node + 1)) {
-                    visited.add(node + 1);
-                    nex.add(node + 1);
-                }
-                if (node - 1 >= 0 && !visited.contains(node - 1)) {
-                    visited.add(node - 1);
-                    nex.add(node - 1);
+            if(node+1<n && !vis[node+1]){
+                vis[node+1]=1;
+                q.push({node+1,dist+1});
+            }
+            for (int next:mp[arr[node]]){
+                if (!vis[next]){
+                    vis[next]=1;
+                    q.push({next,dist+1});
                 }
             }
-
-            curs = nex;
-            step++;
+            mp[arr[node]].clear();
         }
-
         return -1;
     }
-}
+};
