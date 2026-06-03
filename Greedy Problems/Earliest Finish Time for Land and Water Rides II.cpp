@@ -25,3 +25,4 @@ public:
         return min(land_water, water_land);
     }
 };
+
