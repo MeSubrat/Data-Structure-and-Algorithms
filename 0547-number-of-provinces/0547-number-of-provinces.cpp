@@ -8,6 +8,21 @@ private:
             }
         }
     }
+    void bfs(vector<vector<int>> &adj, vector<int> &vis){
+        queue<int> q;
+        // q.push(node);
+
+        while(!q.empty()){
+            int x = q.front();
+            q.pop();
+            for(auto it : adj[x]){
+                if(!vis[it]){
+                    vis[it] = 1;
+                    q.push(it);
+                }
+            }
+        }
+    }
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
