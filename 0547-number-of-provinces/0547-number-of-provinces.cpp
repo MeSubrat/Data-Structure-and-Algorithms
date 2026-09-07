@@ -8,9 +8,9 @@ private:
             }
         }
     }
-    void bfs(vector<vector<int>> &adj, vector<int> &vis){
+    void bfs(int node,vector<vector<int>> &adj, vector<int> &vis){
         queue<int> q;
-        // q.push(node);
+        q.push(node);
 
         while(!q.empty()){
             int x = q.front();
@@ -41,7 +41,8 @@ public:
         for(int i=0;i<n;i++){
             if(!vis[i]){
                 cnt++;
-                dfs(i, adj, vis);
+                // dfs(i, adj, vis);
+                bfs(i,adj, vis);
             }
         }
         return cnt;
