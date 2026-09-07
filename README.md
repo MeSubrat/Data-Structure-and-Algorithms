@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2685-count-the-number-of-complete-components) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0200-number-of-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0994-rotting-oranges) |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1260-shift-2d-grid) |
