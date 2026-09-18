@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0733-flood-fill) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0130-surrounded-regions](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0733-flood-fill) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0115-distinct-subsequences) |
+| [0542-01-matrix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1140-stone-game-ii) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0835-image-overlap) |
