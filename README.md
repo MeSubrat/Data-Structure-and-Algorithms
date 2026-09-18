@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1020-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/3310-remove-methods-from-project) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1301-number-of-paths-with-max-score) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1020-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1301-number-of-paths-with-max-score) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
