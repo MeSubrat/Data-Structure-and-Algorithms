@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0130-surrounded-regions](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
+| [0455-assign-cookies](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0695-max-area-of-island) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -435,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
