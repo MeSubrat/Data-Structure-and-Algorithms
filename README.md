@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0130-surrounded-regions](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
+| [0435-non-overlapping-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0115-distinct-subsequences) |
+| [0435-non-overlapping-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1288-remove-covered-intervals) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
