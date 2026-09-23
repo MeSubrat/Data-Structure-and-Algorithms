@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0435-non-overlapping-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1140-stone-game-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0678-valid-parenthesis-string](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -458,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
