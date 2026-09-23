@@ -28,74 +28,36 @@ public:
         // return sum;
 
         //Optimal Approach
-        // int n = ratings.size();
-        // int i=1;
-        // int sum = 1;
-        // while(i<n){
-        //     if(ratings[i] == ratings[i-1]) {
-        //         sum += 1;
-        //         i++;
-        //         continue;
-        //     }
-        //     // bool hasPeak = false;
-        //     int peak = 1;
-        //     while(i<n && ratings[i] > ratings[i-1]){
-        //         peak += 1;
-        //         sum += peak;
-        //         // hasPeak = true;
-        //         i++;
-        //     }
-        //     int down = 1;
-        //     while(i<n && ratings[i] < ratings[i-1]){
-        //         down += 1;
-        //         sum += down;
-        //         i++;
-        //     }
-
-        //     if( down > peak){
-        //         sum += (down-peak);
-        //     }
-        // }
-        // return sum;
         int n = ratings.size();
-        if (n <= 1) return n;
-
+        int i=1;
         int sum = 1;
-        int i = 1;
-        
-        while (i < n) {
-            // 1. Handle flat ratings
-            if (ratings[i] == ratings[i - 1]) {
+        while(i<n){
+            if(ratings[i] == ratings[i-1]) {
                 sum += 1;
                 i++;
                 continue;
             }
-
-            // 2. Handle increasing slope (peak)
+            // bool hasPeak = false;
             int peak = 1;
-            while (i < n && ratings[i] > ratings[i - 1]) {
+            while(i<n && ratings[i] > ratings[i-1]){
                 peak += 1;
                 sum += peak;
+                // hasPeak = true;
                 i++;
             }
-
-            // 3. Handle decreasing slope (down)
-            int down = 0;
-            while (i < n && ratings[i] < ratings[i - 1]) {
-                down += 1;
+            int down = 1;
+            while(i<n && ratings[i] < ratings[i-1]){
                 sum += down;
+                down += 1;
                 i++;
             }
 
-            // 4. Correction if the down slope is longer than the peak
-            // The peak element was counted in the rising sequence, but if the 
-            // falling sequence is taller, the peak needs extra to satisfy both sides.
-            if (down >= peak) {
-                sum += (down - peak + 1);
+            if( down > peak){
+                sum += (down-peak);
             }
         }
-        
         return sum;
+
 
 
     }
