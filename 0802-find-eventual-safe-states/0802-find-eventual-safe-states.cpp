@@ -16,29 +16,62 @@ private:
         return false;
     }
 public:
-    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        // vector<vector<int>> adj(V);
-        // for(auto edge : edges){
-        //     int u = edge[0];
-        //     int v = edge[1];
-        //     adj[u].push_back(v);
-        // }
-        int V = graph.size();
-        vector<int> vis(V,0);
-        vector<int> check(V,0);
-        vector<int> safeNodes;
+    // vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+    //     int V = graph.size();
+    //     vector<int> vis(V,0);
+    //     vector<int> check(V,0);
+    //     vector<int> safeNodes;
 
+    //     for(int i=0;i<V;i++){
+    //         if(!vis[i]){
+    //             dfs(i, graph, vis,check);
+    //         }
+    //     }
+        
+    //     for(int i=0;i<V;i++){
+    //         if(check[i] == 1){
+    //             safeNodes.push_back(i);
+    //         }
+    //     }
+    //     return safeNodes;
+    // }
+    vector<int> eventualSafeNodes(vector<vector<int>>& edges){
+        int V = edges.size();
+        vector<vector<int>> adjRev(V);
         for(int i=0;i<V;i++){
-            if(!vis[i]){
-                dfs(i, graph, vis,check);
+            //i -> it
+            for(auto it : edges[i]){
+                adjRev[it].push_back(i);
             }
         }
         
+        //Increase Indegree
+        vector<int> indegree(V,0);
         for(int i=0;i<V;i++){
-            if(check[i] == 1){
-                safeNodes.push_back(i);
+            for(auto it : adjRev[i]){
+                indegree[it]++;
             }
         }
-        return safeNodes;
+        queue<int> q;
+        for(int i=0;i<V;i++){
+            if(indegree[i] == 0){
+                q.push(i);
+            }
+        }
+        vector<int> safenodes;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            safenodes.push_back(node);
+
+            for(auto it : adjRev[node]){
+                indegree[it]--;
+                if(indegree[it] == 0){
+                    q.push(it);
+                }
+            }
+        }
+        sort(safenodes.begin(),safenodes.end());
+        return safenodes;
     }
 };
