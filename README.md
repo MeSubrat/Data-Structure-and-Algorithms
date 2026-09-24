@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0733-flood-fill) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0695-max-area-of-island) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
