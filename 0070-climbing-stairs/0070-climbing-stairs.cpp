@@ -24,13 +24,24 @@ public:
         // vector<int> dp(n+1,-1);
         // return tabFun(n, dp);
 
-        //Tabulation
+        //Tabulation : Space O(N)
         vector<int> dp(n+1,-1);
-        dp[0] = 1;
-        dp[1] = 1;
+        // dp[0] = 1;
+        // dp[1] = 1;
+        // for(int i=2;i<=n;i++){
+        //     dp[i] = dp[i-1] + dp[i-2];
+        // }
+        // return dp[n];
+        
+        //Space O(1)
+        int prev1 = 1;
+        int prev2 = 1;
+
         for(int i=2;i<=n;i++){
-            dp[i] = dp[i-1] + dp[i-2];
+            int x = prev1 + prev2;
+            prev1 = prev2;
+            prev2 = x;
         }
-        return dp[n];
+        return prev2;
     }
 };
