@@ -17,7 +17,7 @@ public:
 
         //Tabulation
         dp[0] = nums[0];
-        int negative = 0;
+        // int negative = 0;
 
         for(int i=1;i<n;i++){
             int take = nums[i];
