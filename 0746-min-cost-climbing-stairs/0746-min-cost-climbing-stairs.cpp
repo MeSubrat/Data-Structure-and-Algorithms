@@ -29,19 +29,32 @@ public:
         // vector<int> dp(n+1,-1);
         // return funMemo(n, cost, dp);
 
-        //Tabulation
-        vector<int> dp(n+1);
-        dp[0] = 0;
-        dp[1] = 0;
+        //Tabulation 
+        // vector<int> dp(n+1);
+        // dp[0] = 0;
+        // dp[1] = 0;
 
-        for(int i=2;i<=n;i++){
-            int fs = dp[i-1] + cost[i-1];
-            int ss = INT_MAX;
-            if(i>1) {
-                ss = dp[i-2] + cost[i-2];
-            }
-            dp[i] = min(fs, ss);
+        // for(int i=2;i<=n;i++){
+        //     int fs = dp[i-1] + cost[i-1];
+        //     int ss = INT_MAX;
+        //     if(i>1) {
+        //         ss = dp[i-2] + cost[i-2];
+        //     }
+        //     dp[i] = min(fs, ss);
+        // }
+        // return dp[n];
+
+        //Space Optimisation
+        int prev2 = 0;
+        int prev = 0;
+        
+        for(int i=2; i<=n;i++){
+            int fs = prev + cost[i-1];
+            int ss = prev2 + cost[i-2];
+            int curr = min(fs, ss);
+            prev2 = prev;
+            prev = curr;
         }
-        return dp[n];
+        return prev;
     }
 };
