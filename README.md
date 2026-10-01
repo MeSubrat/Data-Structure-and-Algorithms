@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1096-brace-expansion-ii) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
