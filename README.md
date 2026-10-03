@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0695-max-area-of-island) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
@@ -554,10 +557,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
