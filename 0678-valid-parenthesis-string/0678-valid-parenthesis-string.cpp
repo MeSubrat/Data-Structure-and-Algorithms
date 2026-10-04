@@ -8,6 +8,7 @@ private:
         if(s[ind] == '(') return fun(s,ind+1,cnt+1);
         if(s[ind] == ')') return fun(s,ind+1,cnt-1);
 
+        //if(s[i] == '*') then we have 3 possibilities.
         return fun(s,ind+1,cnt+1) || fun(s,ind+1,cnt) || fun(s,ind+1,cnt-1);
     }
 public:
