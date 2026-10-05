@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1301-number-of-paths-with-max-score) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
