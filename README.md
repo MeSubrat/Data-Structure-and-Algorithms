@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
+| [1092-shortest-common-supersequence](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1143-longest-common-subsequence) |
@@ -593,5 +595,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
