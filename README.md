@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
