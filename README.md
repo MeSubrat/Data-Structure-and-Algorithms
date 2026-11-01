@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0518-coin-change-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0877-stone-game) |
