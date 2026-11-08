@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2685-count-the-number-of-complete-components) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/3310-remove-methods-from-project) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1463-cherry-pickup-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -512,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MeSubrat/Data-Structure-and-Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
